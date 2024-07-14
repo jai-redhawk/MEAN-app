@@ -1,0 +1,32 @@
+# Node.js
+node_modules/
+dist/
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn
+.yarn-integrity
+
+# dotenv environment variables file
+.env
+
+# Angular
+.angular
+*.log
+.idea/
+.sass-cache/
+.tmp/
+*.tmp
